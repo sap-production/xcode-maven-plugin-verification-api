@@ -8,6 +8,9 @@
   <organization>
     <name>SAP AG</name>
   </organization>
+
+  <name>xcode-maven-plugin verification check API</name>
+  <description>This project conatins the contract between the xcode-maven-plugin and the verification checks.</description>
     
   <licenses>
     <license>
